@@ -33,8 +33,8 @@ There are ofcourse some errors when trying out really old data like for the Year
 
 I want to collaborate on:
 
-*Creating a robust and more complete parser for wikipedia entries
-*Looking at alternative sources for events and more importantly images given the API call limit for Google image search
-*Other data points that can represent a specific time. For example, I was thinking of playing the Billboard top song of that month in the background. It just gives a feel of the times and taste of people. In recent years, we have Youtube Rewind videos and social networks with trends that can represent what the masses are thinking.
+* Creating a robust and more complete parser for wikipedia entries
+* Looking at alternative sources for events and more importantly images given the API call limit for Google image search
+* Other data points that can represent a specific time. For example, I was thinking of playing the Billboard top song of that month in the background. It just gives a feel of the times and taste of people. In recent years, we have Youtube Rewind videos and social networks with trends that can represent what the masses are thinking.
 
 Any inputs on these points or more features are appreciated. Please, feel free to suggest features/bugs in the issues area.
